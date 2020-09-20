@@ -3,7 +3,8 @@
 
 ### Link Of My Project:  https://wikiscrapping.herokuapp.com/
 
-In this project I am scrap the data from weikipedia.
+This Project assign me by Inuron. Thanks To #Krish Sir and #Sudhansu Sir. In this project I am scrap the data from weikipedia.
+
 ## What Is Web scraping?
 Web scraping is a technique using which the webpages from the internet are fetched and parsed
 to understand and extract specific information similar to a human being. 
